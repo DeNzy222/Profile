@@ -1,0 +1,14 @@
+@media (max-width: 412px) {
+	.main {
+		background-color: crimson;
+		height: 1000px;
+		padding-top: 200px;
+	}
+	.prog-bar {
+		margin-top: 0px;
+		margin-left: 55px;
+	}
+	.bth > a{
+		color: white;
+	}
+}
